@@ -1,5 +1,4 @@
-# MERIDIAN
-
+# ✺ MERIDIAN
 > *Where real-world effort meets on-chain value. Work. Earn. Grow.*
 
 ---
